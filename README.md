@@ -1,4 +1,4 @@
 # DeviceSupport
 xcode   DeviceSupport
 
-2020-09-30  更新 iOS 7.1 ----- iOS 14.2 的 DeviceSupport
+2020-12-16  更新 iOS 7.1 ----- iOS 14.3 的 DeviceSupport
